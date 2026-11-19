@@ -3,7 +3,7 @@
 Shared Rust quality gate for the fleet — the canonical lint block, the
 clippy/rustfmt/cargo-deny config, cargo aliases, a two-mode gate, and the
 agent-facing guide. Consumed by
-[provision](https://github.com/alehatsman/provision).
+[provision](https://github.com/aleh-op/provision).
 
 - [docs/RUST.md](docs/RUST.md) — how to write it. Rules, gate markers, the 2026 trap list, a review checklist.
 - [docs/STACK.md](docs/STACK.md) — what to reach for. De-facto crate picks with versions and deviation triggers.
